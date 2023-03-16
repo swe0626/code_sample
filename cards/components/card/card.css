@@ -1,0 +1,20 @@
+.scanned-card-list .state {
+    background-color: #63AEFF;
+    color: #FFFFFF;
+    font-size: 13px;
+    border-radius: 8px;
+    width: 102px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.scanned-card-list .scanned-avatar {
+    width: 99.15px;
+    height: 63px;
+}
+
+
+.scanned-card-list .scanned-avatar .avatar-img{
+  object-fit: contain;
+}

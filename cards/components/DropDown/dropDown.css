@@ -1,0 +1,22 @@
+
+.action-dropdown .dropdown-menu {
+    position: absolute;
+    inset: 0px auto auto 0px;
+    margin: 0px;
+    transform: translate(-171px, 27px);
+}
+
+.action-dropdown .dropdown-toggle {
+    background-color: transparent!important;
+    border: 0px!important;
+    box-shadow: transparent;
+    box-shadow: none;
+}
+
+.action-dropdown .dropdown-toggle:hover{
+    color: #1657af;
+}
+
+.action-dropdown .dropdown-toggle:focus{
+    box-shadow: none!important;
+}
